@@ -1,7 +1,10 @@
+/*
+	http://alireza.es/homework/ 
+	Question: شکل مشخصی را چاپ کند
+*/
 #include <iostream>
 #include <conio.h>
 
-// g++ Syntax
 using namespace std;
 
 int main(){
@@ -22,5 +25,6 @@ int main(){
 		cout << "\n";
 	}
 	
+	getch();
 	return 0;
 }
